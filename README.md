@@ -25,6 +25,3 @@ An swesome multi options Quiz app with VUE js 3
    
 
 
-=======
-# vue-todo-list
-Pure Vuejs &amp; LocalStorage app
