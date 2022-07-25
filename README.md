@@ -1,12 +1,30 @@
-<<<<<<< HEAD
-# Vue 3 + Vite
+# Vue 3 Quiz APP
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+An swesome multi options Quiz app with VUE js 3
 
-## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+## Installation
+
+
+1. Clone the project
+   ```sh
+   git clone https://github.com/jumahmohammadi/vue-quiz-app
+   ```
+2. go to vue-quiz-app folder/directory
+
+
+3. run npm install command 
+   ```sh
+   npm install
+   ```
+   
+4. run npm run dev command
+   ```sh
+      npm run dev
+   ```
+   
+
+
 =======
 # vue-todo-list
 Pure Vuejs &amp; LocalStorage app
->>>>>>> 593a642bce0b7654c520e4e9604c2d75f3fbbfd8
